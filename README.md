@@ -8,7 +8,6 @@ The project mainly consists of a Python script that imports the necessary librar
 
 ## Libraries Used
 
-- pytesseract (for OCR)
 - pdf2image (to convert PDF files into images for OCR)
 - SpaCy (for NLP)
 
